@@ -81,7 +81,9 @@ abclf/
 ├── LICENSE
 ├── MANIFEST.in
 ├── README.md
+├── requirements.txt
 └── pyproject.toml
+
 ```
 
 with a whl file and a tar.gz. The package is finally uploaded with twine:
